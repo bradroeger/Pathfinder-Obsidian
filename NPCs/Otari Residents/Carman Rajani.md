@@ -1,5 +1,5 @@
 ---
-AssociatedGroup:
+AssociatedGroup: "[[Otari Resident]]"
 Gender:
 Ancestry:
 Age:
@@ -9,9 +9,9 @@ NoteIcon: npc
 ---
 ### Important Notes
 
-I serve you still! You shall be avenged (written on a painting in an outbuilding)
+
 ### Additional Notes
 
 
 ### Notable Family
-
+Descendant from the [[Roseguard]]

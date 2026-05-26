@@ -1,4 +1,4 @@
-A day celebrating the [[Roseguard]], their defeat of the evil Sorceress [[Belocorra Haruvex]], and their founding of Otari
+A day celebrating the [[Roseguard]], their defeat of the evil Sorceress [[Belcorra Haruvex]], and their founding of Otari
 
 Asef
 Otari Rogue

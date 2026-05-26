@@ -1,1 +1,0 @@
-Descendant from the [[Roseguard]]

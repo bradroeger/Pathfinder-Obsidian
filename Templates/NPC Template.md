@@ -5,11 +5,12 @@ Ancestry:
 Age:
 Alignment:
 Location:
+Disposition:
 NoteIcon: npc
 ---
 ### Important Notes
 
-I serve you still! You shall be avenged (written on a painting in an outbuilding)
+
 ### Additional Notes
 
 

@@ -3,7 +3,7 @@ Celebrating [[Founder's Day]]
 Founded in 4242 AR
 Logging Town
 
-![[Pasted image 20260309203622.png]]
+![[Otari Map.png]]
 
 Giant's Wheel - Lumber wheel
 [[Menheems manor ]]- Town Mayor - 1 wing closed off too big and 1 wing is the town museum
@@ -14,7 +14,7 @@ Giant's Wheel - Lumber wheel
 [[Odd Stories]] - Run by a wizard/charlatan provide spell work. Owns a selection of spells and can cast others and sells scrolls of the arcane and occult
 [[Bespoke and Rat]] Rattlers shop provides Rats
 [[Farmers Guild]] - Rooms for free of charge for farmers or rent if needed.
-[[Crow's Cask]] - Strange Liquids / Alcemists
+[[Crow's Casks]] - Strange Liquids / Alcemists
 [[Otari Market]] Log cabin trading post, gathering for locals, general goods and farmers market
 [[Crooks Nook]] - Pub Good food but a rough reputation with lodging. Enjoyed by the shadier types
 [[Otari Fishery]] - Dealing in the fish the comes in, gathering place for games and entertainment 

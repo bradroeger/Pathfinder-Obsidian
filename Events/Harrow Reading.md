@@ -4,7 +4,7 @@ The Tyrant
 
 The Survivor: We will meet someone to help
 The Hidden Truth: An important secret we must discover
-The Demon's Lantern: Aware of dangerous presense of lights in the Fog Fen
+The Demon's Lantern: Aware of dangerous presence of lights in the Fog Fen
 
 The Locksmith: We will open many doors which have remaining closed
 The Fiend: A Great and Dangerous power may harm you or help you

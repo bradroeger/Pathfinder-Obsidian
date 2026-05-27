@@ -10,6 +10,7 @@ NoteIcon: npc
 ### Important Notes
 
 Is the owner of the [[Whistledown Cutters]] 
+[[Alymora Inkleholtz]] has a school for the local children.
 ### Additional Notes
 
 

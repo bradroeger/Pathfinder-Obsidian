@@ -1,4 +1,27 @@
-
+---
+AssociatedGroup:
+Location:
+Type: Tavern
+Disposition:
+NoteIcon: loc
+---
+### Important Notes
 
 Alchemical Shop
-Identified potions for 2gp each
+
+### Provided Services
+
+Alchemical Ingredients
+Potions
+* Identify Potion - 2gp 
+### Additional Notes
+
+
+### Notable Family
+
+
+
+
+
+
+

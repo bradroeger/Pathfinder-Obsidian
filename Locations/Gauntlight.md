@@ -1,6 +1,6 @@
-We heard voices speaking in a horrible language [[Sakvoth]]
+We heard voices speaking in a horrible language called [[Sakvoth]]
 The place is filled with Gremlin fey called [[Mitfits]]
-There was a teleporter here but the silver has been stolen.
+There was a teleporter here but the silver has been stolen from the seal.
 [[Boss Skrawng]] has appeared and speaks common to us.
 
 We found a secret passage into the basement.
@@ -17,3 +17,7 @@ Found a haunt of betrayed kobolds:
 
 Huge bloodstain in the middle of the tower.
 [[Lighthouse]]
+
+Appears to be able to shoot a beam that raises the dead
+Also appears to be able to teleport in horrible monsters
+A sign of [[Belcorra Haruvex]]'s return?

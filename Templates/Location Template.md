@@ -1,7 +1,8 @@
 ---
 AssociatedGroup:
 Location:
-Type: Tavern
+Type:
+Disposition:
 NoteIcon: loc
 ---
 ### Important Notes

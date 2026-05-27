@@ -4,7 +4,7 @@ Gender:
 Ancestry:
 Age:
 Alignment:
-Location:
+Location: "[[Blades for Glades]]"
 NoteIcon: npc
 ---
 ### Important Notes

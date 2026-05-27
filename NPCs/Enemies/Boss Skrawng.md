@@ -1,8 +1,8 @@
 ---
 AssociatedGroup:
-Gender: Female
-Ancestry:
-Age:
+Gender: Male
+Ancestry: Gremlin
+Age: ???
 Alignment: Evil
 Location: "[[Gauntlight]]"
 NoteIcon: npc

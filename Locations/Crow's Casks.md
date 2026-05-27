@@ -4,6 +4,7 @@ Location:
 Type: Tavern
 Disposition:
 NoteIcon: loc
+Owner: "[[Magiloy]]"
 ---
 ### Important Notes
 

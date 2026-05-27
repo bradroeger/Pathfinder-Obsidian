@@ -2,6 +2,7 @@
 AssociatedGroup:
 Location:
 Type:
+Owner:
 Disposition:
 NoteIcon: loc
 ---

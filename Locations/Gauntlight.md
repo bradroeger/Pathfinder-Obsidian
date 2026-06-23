@@ -33,7 +33,7 @@ The shrine has a connection to a woman we saw in a portrait I believe this is [[
 
 The blood had an image of [[Belcorra Haruvex]] hurt and injured and stabbed. Betrayed by someone and so much anger.
 
-Perhaps at night the blood will manifest into a great and terrible horror.
+Perhaps at night the blood will manifest into a great and terrible horror possibly a haunt though it remains unclear if we should face this.
 
 
 ### Additional Notes

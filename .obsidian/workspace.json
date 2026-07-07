@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/basement 1.md",
+                "file": "Locations/Gauntlight Dungeon/B1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "basement 1"
+              "title": "B1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/basement 1.md",
+                "file": "Locations/Gauntlight Dungeon/B1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for basement 1"
+              "title": "Backlinks for B1"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/basement 1.md",
+                "file": "Locations/Gauntlight Dungeon/B1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from basement 1"
+              "title": "Outgoing links from B1"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/basement 1.md",
+                "file": "Locations/Gauntlight Dungeon/B1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of basement 1"
+              "title": "Outline of B1"
             }
           },
           {
@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf7a304944831130",
+  "active": "a24318c7ad135b2e",
   "lastOpenFiles": [
-    "Locations/Gauntlight.md",
-    "Locations/basement 1.md",
+    "Locations/Gauntlight Dungeon/Ground Floor.md",
+    "Locations/Gauntlight Dungeon/B1.md",
+    "Locations/Gauntlight Dungeon",
     "Players/Prince Praveen Penthus.md",
     "Dieties/God of the Hunt.md",
     "Groups/Ospery Club.md",

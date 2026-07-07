@@ -49,3 +49,5 @@ scroll (restore senses)
 Lesser Darkvision (Elixer)
 
 3 gp, 20 sp, a box with components for a caltrop snare, a wolf fang, and a vial of black adder venom with the word "YUM" clumsily written on it.
+
+ [[basement 1]]

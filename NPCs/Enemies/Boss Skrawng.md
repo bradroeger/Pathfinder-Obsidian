@@ -14,8 +14,8 @@ Had a big spider
 Planning to attack [[Otari]]
 ### Additional Notes
 
-Perhaps delusions of Grandeur
-But he mentioned that we had killed his whole army a clear lie.
+Perhaps delusions of grandeur.
+He mentioned that we had killed his whole army — a clear lie.
 
 ### Notable Family
 

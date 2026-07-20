@@ -9,7 +9,7 @@ NoteIcon: npc
 ---
 ### Important Notes
 
-I serve you still! You shall be avenged (written on a painting in an outbuilding) possibly referring to [[Belcorra Haruvex]]
+"I serve you still! You shall be avenged." (Written on a painting in an outbuilding — possibly referring to [[Belcorra Haruvex]].)
 ### Additional Notes
 
 

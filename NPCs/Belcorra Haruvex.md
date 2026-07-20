@@ -9,9 +9,9 @@ NoteIcon: npc
 ---
 ### Important Notes
 A poem is sung about her:
-When the fog is creeping, And the moon is low; When the town is sleeping, [[Ground Floor]] starts to glow! That’s when she arises For her midnight lunch. Naughty kids are prizes For her teeth to crunch. But if you obey me, And obey the rules; You’re safe from Belcorra; She just eats the fools!
+When the fog is creeping, and the moon is low; when the town is sleeping, [[Ground Floor]] starts to glow! That's when she arises for her midnight lunch. Naughty kids are prizes for her teeth to crunch. But if you obey me, and obey the rules; you're safe from Belcorra — she just eats the fools!
 
-Possibly the Big Bad?
+Possibly the big bad?
 
 Defeated by the [[Roseguard]]
 

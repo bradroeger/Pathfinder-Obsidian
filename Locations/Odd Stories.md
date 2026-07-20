@@ -6,9 +6,9 @@ Affinity: Friendly
 NoteIcon: loc
 ---
 ### Important Notes
-a 3 story stone tower,
-a 1 story book store
-Owner by [[Morlibint]]
+A 3-story stone tower.
+A 1-story bookstore.
+Owned by [[Morlibint]].
 ### Additional Notes
 
 ### Provided Services
@@ -25,6 +25,7 @@ Owner by [[Morlibint]]
 
 
 
-[[Karth ]] He is the light of my life, paramour 
-Mayor seeking a tutor for ground them?
+[[Karth]] - He is the light of my life; paramour.
+Mayor seeking a tutor to ground them?
+
 

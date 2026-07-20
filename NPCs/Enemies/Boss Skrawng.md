@@ -4,7 +4,7 @@ Gender: Male
 Ancestry: Gremlin
 Age: ???
 Alignment: Evil
-Location: "[[Gauntlight]]"
+Location: "[[Ground Floor]]"
 NoteIcon: npc
 ---
 ### Important Notes
